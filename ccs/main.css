@@ -4,9 +4,18 @@
     padding: 0;
 }
 
+header li {
+    display: inline;
+}
 
+.container {
+    width: 1366px;
+    margin: 0 auto;
+}
 
-
+.articles {
+    display: flex;
+}
 
 
 
